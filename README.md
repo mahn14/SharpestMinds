@@ -9,6 +9,5 @@ This program provides curriculums and skill-tests that allow students to learn a
     Was intended to get first exposure to scikit-learn and basic ML methods
 
 2. XGBoostTest   
-    My second ML/ Python project.
-    This was done during my first freelance project through SharpestMinds, as we believed XGB would be required to complete it.
+    My second ML/ Python project, practicing the language and expanding knowledge of libraries
     
